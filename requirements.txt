@@ -1,0 +1,11 @@
+pandas
+sodapy
+tqdm
+numpy
+geopandas
+seaborn
+matplotlib
+folium
+pyspark
+pyarrow
+fastparquet
