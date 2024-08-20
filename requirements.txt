@@ -11,3 +11,5 @@ pyarrow
 fastparquet
 scikit-learn
 xgboost
+plotly
+kaleido
