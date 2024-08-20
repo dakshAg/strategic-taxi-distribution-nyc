@@ -9,3 +9,5 @@ folium
 pyspark
 pyarrow
 fastparquet
+scikit-learn
+xgboost
