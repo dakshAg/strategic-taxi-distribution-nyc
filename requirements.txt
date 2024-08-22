@@ -15,3 +15,9 @@ plotly
 kaleido
 statsmodels
 scipy
+urllib3
+pytz
+openmeteo-requests
+requests-cache
+retry-requests
+xgboost
