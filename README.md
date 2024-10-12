@@ -1,7 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Yi0Zbe2y)
 # MAST30034 Project 1 - Redistributing HVFHV Taxis for Optimal Coverage
 - Name: `Daksh Agrawal`
-- Student ID: `1340113`
+
+The academic report for this project is uploaded as `report.pdf`.
 
 **Research Goal:** My research goal is to redistribute HVFHV taxis in a city to optimise their demand-supply in the city of New York.
 
